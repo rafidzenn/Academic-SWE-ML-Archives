@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+env/
+
+# C/C++ (Code::Blocks / GCC)
+*.o
+*.exe
+*.out
+
+# VS Code & OS files
+.vscode/
+.DS_Store
