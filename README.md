@@ -1,8 +1,8 @@
 # Academic-SWE-ML-Archives
-During my CS major, Archived ML research and SWE coursework (2024-2025). Demonstrates early work in object-oriented design, algorithmic efficiency, and supervised learning across Kaggle, local IDEs(Ideone), and Colab.
+During my CS major, Archived ML research and SWE coursework (2023-2025). Demonstrates early work in object-oriented design, algorithmic efficiency, and supervised learning across Kaggle, local IDEs(Ideone), and Colab.
 
 
-# Academic ML Archives (2024–2025)
+# Academic ML Archives (2023–2025)
 
 This repository serves as a centralized archive of software engineering projects, machine learning models, algorithmic frameworks, and software engineering pipelines developed during my undergraduate academic career. 
 
